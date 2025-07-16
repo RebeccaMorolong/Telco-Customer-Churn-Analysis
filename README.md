@@ -1,6 +1,6 @@
 # 📉 Telco Customer Churn Analysis
 
-This project tackles a real-world business problem faced by telecom companies: reducing customer churn and its impact on recurring revenue. Using Python, logistic regression, and decision tree modeling, I simulate actionable strategies for retention, target segmentation, and campaign planning.
+This project tackles a real-world business problem faced by telecom companies: reducing customer churn and its impact on recurring revenue. Using Python, logistic regression, and decision tree modeling, I simulated actionable strategies for retention, target segmentation, and campaign planning.
 
 ## 🔍 Objectives
 - Identify key churn drivers using customer behavior and demographics
@@ -39,7 +39,7 @@ This project showcases my ability to:
 - Present findings clearly for executive audiences
 
 ## 📁 Files
-- `telco_churn_analysis.ipynb`: Full Python notebook with models + insights
+- **`https://github.com/RebeccaMorolong/Telco-Customer-Churn-Analysis/blob/main/telcochurnanalysis.ipynb`**: Full Python notebook with models + insights
 - `decision_tree_visual.png`: Annotated decision path for churn
 - `revenue_loss_simulation.csv`: Estimated cost of churn by segment
 
